@@ -1,0 +1,33 @@
+.wrapper {
+  margin: 0 auto;
+  padding: 2.5% 5%;
+  max-width: 900px;
+}
+
+:root {}
+
+h1,
+h2,
+h3 {
+  margin: 0 0 .5rem 0;
+}
+
+section,
+header {
+  margin-bottom: 2rem;
+}
+
+.experience-container {
+  margin-bottom: 1.5rem;
+}
+
+p {
+  margin: 0 0 .5rem 0;
+  line-height: 1.5;
+}
+
+
+li {
+  line-height: 1.5;
+  margin-bottom: .5rem;
+}
