@@ -35,7 +35,7 @@ Each folder contains:
 
 ## ✅ Projects
 
-### [📄 01 - Single-Page CV (Frontend)](https://github.com/aka-luan/roadmap.sh-projects/tree/main/frontend/01%20-%20Single-Page%20CV)
+### [📄 01 - Single-Page CV (Frontend)](https://github.com/aka-luan/roadmap.sh-projects/tree/main/frontend/01%20-%20Single-Page%20CV) (Official project page: https://roadmap.sh/projects/single-page-cv)
 
 A clean, responsive single-page CV built with HTML, CSS, and a touch of JavaScript.
 
